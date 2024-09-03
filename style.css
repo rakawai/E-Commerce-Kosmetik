@@ -46,7 +46,7 @@ box-sizing: border-box;
 
 /* ini bagian hero */
 .hero{
-    background-image: url(assets/img/hero.png);
+    background-image: urlhero.png);
     height:900px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -113,7 +113,7 @@ box-sizing: border-box;
  }
 
  .koleksi .card{
-    background-image: url(assets/img/banner1.jpg);
+    background-image: url(banner1.jpg);
     height: 400px;
     width: 400px;
     background-size: cover;
@@ -135,7 +135,7 @@ box-sizing: border-box;
  }
 
  .koleksi .card2{
-    background-image: url(assets/img/banner2.jpg);
+    background-image: url(banner2.jpg);
     height: 400px;
     width: 400px;
     background-size: cover;
@@ -147,7 +147,7 @@ box-sizing: border-box;
  }
 
  .koleksi .card3{
-    background-image: url(assets/img/banner1.jpg);
+    background-image: url(banner1.jpg);
     height: 400px;
     width: 400px;
     background-size: cover;
